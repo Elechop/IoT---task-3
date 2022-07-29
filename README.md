@@ -9,5 +9,5 @@ HTML is used to design a web page that converts audio to text
 A JavaScript web serial is used to connect the web page to the Arduino port
 
 ## Arduino code 
-The Arduino program controls the servo motor through two left commands, which means moving to the  0°
+C++ Arduino program controls the servo motor through two left commands, which means moving to the  0°
 Right to move 180°
