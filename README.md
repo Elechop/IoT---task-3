@@ -11,3 +11,6 @@ A JavaScript web serial is used to connect the web page to the Arduino port
 ## Arduino code 
 C++ Arduino program controls the servo motor through two left commands, which means moving to the  0°
 Right to move 180°
+
+## Participated in the Task: 
+- Abdulmjeed Mohammad [@MjeedM](https://github.com/MjeedM)
